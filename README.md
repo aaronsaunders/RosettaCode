@@ -1,2 +1,2 @@
-# rosettastone
-Hacking on the rosettastone code
+# rosettaCode
+Hacking on the RosettaCode solutions
